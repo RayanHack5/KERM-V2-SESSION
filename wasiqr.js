@@ -67,14 +67,16 @@ router.get('/', async (req, res) => {
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬
 ❶ || Creator = 𖥘 KG TECH 𖥘
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬
-❷ || WhattsApp Channel = https://whatsapp.com/channel/0029Vafn6hc7DAX3fzsKtn45
+❷ || WhatsApp Channel = https://whatsapp.com/channel/0029Vafn6hc7DAX3fzsKtn45
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬
-Please Follow My Support Channel
+Please Follow My Support Group
+▬▬▬▬▬▬▬▬▬▬▬▬▬▬
+➌ ||  WhatsApp Group = https://chat.whatsapp.com/FpxvVBFOozA6IhNxIWhwFw
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬
 ©*2024-2099 KG_TECH*
 _____________________________________
 	
-_Don't Forget To Give Star To My Repo_`
+> Don't Forget To Give Star ⭐️ To My Repo`
 	 await Qr_Code_By_Wasi_Tech.sendMessage(Qr_Code_By_Wasi_Tech.user.id,{text:WASI_MD_TEXT},{quoted:session})
 
 
