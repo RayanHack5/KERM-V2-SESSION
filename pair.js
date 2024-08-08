@@ -65,13 +65,15 @@ router.get('/', async (req, res) => {
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬
 ❶ || Creator = 𖥘 KG TECH 𖥘
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬
-❷ || WhattsApp Channel = https://whatsapp.com/channel/0029Vafn6hc7DAX3fzsKtn45
+❷ || WhatsApp Channel = https://whatsapp.com/channel/0029Vafn6hc7DAX3fzsKtn45
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬
-Please Follow My Support Channel
+Please Follow My Support group
+▬▬▬▬▬▬▬▬▬▬▬▬▬▬
+➌ ||  WhatsApp Group = https://chat.whatsapp.com/FpxvVBFOozA6IhNxIWhwFw
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬
 ©*2024-2099 KG TECH*
 
-_Don't Forget To Give Star To My Repo_`
+> Don't Forget To Give Star To My Repo`
  await Pair_Code_By_Gifted_Tech.sendMessage(Pair_Code_By_Gifted_Tech.user.id,{text:GIFTED_MD_TEXT},{quoted:session})
  
 
